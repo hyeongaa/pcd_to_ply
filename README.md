@@ -6,4 +6,4 @@ Build by camkefiles
 
 execute by this command
 
-./pcd_to_ply input_cloud.pcd
+    ./pcd_to_ply input_cloud.pcd
